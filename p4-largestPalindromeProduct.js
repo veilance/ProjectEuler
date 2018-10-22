@@ -8,7 +8,7 @@ function largestPalindromeProduct(n) {
     for( let j = max; j >= min; j--){
       let product = j * i
       let numReverse = Number([...String(product)].reverse().join(''))
-      if(product === numReverse && product > 900000) {
+      if(product === numReverse) {
         palindromeArray.push(product)
       }
     }
