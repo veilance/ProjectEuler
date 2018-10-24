@@ -14,8 +14,8 @@ Complete 1 challenge a day until all challenges are complete (using Javascript f
 
 # Problems Completed So Far 
 
-Problem 1: Multiples of 3 and 5
-Problem 2: Even Fibonacci Numbers
-Problem 3: Largest Prime Factor 
-Problem 4: Largest Palindrome Product
+* Problem 1: Multiples of 3 and 5
+* Problem 2: Even Fibonacci Numbers
+* Problem 3: Largest Prime Factor 
+* Problem 4: Largest Palindrome Product
 
