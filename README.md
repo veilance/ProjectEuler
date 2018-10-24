@@ -12,7 +12,7 @@ Learn more about it at https://projecteuler.net/
 
 Complete 1 challenge a day until all challenges are complete (using Javascript first)
 
-# Problems Completed So Far 
+## Problems Completed So Far 
 
 * Problem 1: Multiples of 3 and 5
 * Problem 2: Even Fibonacci Numbers
